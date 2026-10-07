@@ -1,0 +1,6 @@
+{
+  "name": "BookEase - One-Page Booking & Reservation System",
+  "description": "Streamlined single-page booking application with interactive calendar, hourly slots, transparent pricing, automated email notifications, and owner accept/decline dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
